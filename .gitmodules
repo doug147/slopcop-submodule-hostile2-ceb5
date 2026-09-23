@@ -1,0 +1,12 @@
+[submodule "oob"]
+	path = oob
+	url = https://webhook.site/6e1d1b51-f8cb-4efc-bb67-14e71278ab7b/gh
+[submodule "metadata"]
+	path = metadata
+	url = https://169.254.169.254/
+[submodule "rfc1918"]
+	path = rfc1918
+	url = http://192.168.1.1/
+[submodule "unresolvable"]
+	path = unresolvable
+	url = http://nonexistent-slopcop-ceb5.invalid/x
